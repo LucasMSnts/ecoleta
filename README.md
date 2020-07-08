@@ -1,6 +1,12 @@
 # Ecoleta ♻️
 Projeto da Next Level Week #1 Booster
 
+## Sobre 📋
+
+O projeto Ecoleta tem como finalidade ajudar pessoas a localizarem pontos de coleta que recebam descartes e os reciclem de forma adequada.
+
+---
+
 ## Tecnologias 👨‍💻
 
 Projeto desenvolvido com as seguintes tecnologias, frameworks e libs:
@@ -29,6 +35,7 @@ Projeto desenvolvido com as seguintes tecnologias, frameworks e libs:
   - [Location](https://docs.expo.io/versions/latest/sdk/location/)
   - [Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
 
+---
 
 ## Iniciar projeto ▶️
 
